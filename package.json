@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chance": "^1.1.11",
+    "chromedriver": "^114.0.2",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.10.0"
+  },
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "type": "module"
+}
